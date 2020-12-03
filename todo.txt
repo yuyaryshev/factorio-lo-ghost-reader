@@ -1,0 +1,8 @@
+- function update_reader()
+- function find_all_readers()
+- function on_reader_added()
+- function on_reader_deleted()
+- function on_tick()
+
+
+- entity reader - copy from Optera's mod

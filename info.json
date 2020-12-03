@@ -1,0 +1,10 @@
+{
+  "name": "lo-radio-telemetry",
+  "version": "2.0.1",
+  "title": "Wireless Lite",
+  "author": "LordOdin",
+  "contact": "",
+  "homepage": "https://github.com/lordodin/lo-radio-telemetry",
+  "description": "Adds radio equipment that can create any number of wireless networks. Multiple wireless networks are supported. All signal types are supported. Usage is very simple: place a transmitter and a receiver, both should have same channel to be connected. If many transmitters share same channel - you get summ of all. Very fast implementation - no range calculations allowed to optimize all the code. You can copy channel settings for all devices in standard way (Shift+RClick - copy, Shift+LClick - paste).",
+  "factorio_version": "0.18"
+}
